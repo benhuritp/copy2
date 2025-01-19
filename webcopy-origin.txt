@@ -1,0 +1,292 @@
+Uri: https://internet-shop.shop/
+File Name: C:\Downloaded Web Sites\internet-shop.shop\index.htm
+Content Type: text/html
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\internet-shop.shop\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.one/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\internet-shop.shop\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\internet-shop.shop\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\internet-shop.shop\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\internet-shop.shop\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\internet-shop.shop\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\internet-shop.shop\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.one/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\internet-shop.shop\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.one/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-text-clamp.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-text-clamp.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-video-1.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/js/tilda-video-processor-1.0.min.js
+File Name: C:\Downloaded Web Sites\internet-shop.shop\js\tilda-video-processor-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.one/lib/linea/51c519d1-e80b-8200-f204-c375e14bcda6/basic_smartphone.svg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\lib\linea\51c519d1-e80b-8200-f204-c375e14bcda6\basic_smartphone.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/lib/linea/ba081b75-ca40-e7ef-8769-495c95b35003/basic_geolocalize01.svg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\lib\linea\ba081b75-ca40-e7ef-8769-495c95b35003\basic_geolocalize01.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.one/ws/project7675931/tilda-blocks-page38732545.min.css?t=1736120189
+File Name: C:\Downloaded Web Sites\internet-shop.shop\ws\project7675931\tilda-blocks-page38732545.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.one/ws/project7675931/tilda-blocks-page38732545.min.js?t=1736120189
+File Name: C:\Downloaded Web Sites\internet-shop.shop\ws\project7675931\tilda-blocks-page38732545.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.one/tild3037-3234-4238-b762-323134316136/-/empty/IMG_5024.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3037-3234-4238-b762-323134316136\-\empty\IMG_5024.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3136-3035-4839-b936-393464303864/-/empty/IMG_5009.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3136-3035-4839-b936-393464303864\-\empty\IMG_5009.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3263-6363-4530-a564-313039373035/-/empty/IMG_5007.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3263-6363-4530-a564-313039373035\-\empty\IMG_5007.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3333-6535-4264-a366-643662333131/-/empty/IMG_9531.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3333-6535-4264-a366-643662333131\-\empty\IMG_9531.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3562-6331-4162-b335-656461323533/-/empty/IMG_5006.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3562-6331-4162-b335-656461323533\-\empty\IMG_5006.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3631-3534-4062-b562-363136623336/-/resizeb/20x/IMG_5017.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3631-3534-4062-b562-363136623336\-\resizeb\20x\IMG_5017.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild3638-3936-4764-a161-323532386163/-/empty/IMG_5005.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3638-3936-4764-a161-323532386163\-\empty\IMG_5005.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3762-3963-4036-b663-353664376263/-/empty/IMG_5021.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3762-3963-4036-b663-353664376263\-\empty\IMG_5021.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3933-6164-4634-b336-386234633665/-/empty/F8A771F8-A32E-404E-B.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3933-6164-4634-b336-386234633665\-\empty\F8A771F8-A32E-404E-B.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild3938-6532-4032-a536-373430336361/-/resizeb/20x/IMG_5020.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild3938-6532-4032-a536-373430336361\-\resizeb\20x\IMG_5020.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild6136-3037-4334-b064-663230616336/-/resizeb/20x/IMG_5019.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild6136-3037-4334-b064-663230616336\-\resizeb\20x\IMG_5019.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild6136-3631-4934-a132-363665346465/-/resizeb/20x/IMG_5018.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild6136-3631-4934-a132-363665346465\-\resizeb\20x\IMG_5018.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.one/tild6264-6165-4365-b832-643837663032/-/empty/msg595555688-108922.jpg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild6264-6165-4365-b832-643837663032\-\empty\msg595555688-108922.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6530-3963-4863-b334-306630636231/-/empty/msg595555688-108922.jpg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild6530-3963-4863-b334-306630636231\-\empty\msg595555688-108922.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6534-3232-4139-b562-626465663633/-/empty/IMG_4659.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild6534-3232-4139-b562-626465663633\-\empty\IMG_4659.jpeg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6563-3062-4336-b563-333431376134/-/empty/398129721_6335314887.jpg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild6563-3062-4336-b563-333431376134\-\empty\398129721_6335314887.jpg
+Content Type: image/png
+
+Uri: https://thb.tildacdn.one/tild6565-3761-4033-b463-376439303133/-/empty/IMG_5023.jpeg
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tild6565-3761-4033-b463-376439303133\-\empty\IMG_5023.jpeg
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=1367670290861457&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\internet-shop.shop\tr
+Content Type: text/plain
+
